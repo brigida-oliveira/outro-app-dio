@@ -1,6 +1,7 @@
 # meu-primeiro-app-dio
 Esse projeto tem o objetivo de realizar um desafio para os alunos do curso de Android na DIO
 
+Screenshots das telas depois de localizadas nos idiomas inglês, alemão, espanhol, italiano e francês.
 
 <img src="https://github.com/brigida-oliveira/outro-app-dio/assets/23221837/02b7effd-df6c-40e8-9393-d1f14eee1e20" width="200">
 <img src="https://github.com/brigida-oliveira/outro-app-dio/assets/23221837/ce530d21-eee7-4d4d-a1d9-79f764684367" width="200">
